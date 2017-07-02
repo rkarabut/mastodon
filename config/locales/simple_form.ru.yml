@@ -10,7 +10,7 @@ ru:
           one: Остался <span class="name-counter">1</span> символ
           other: Осталось <span class="name-counter">%{count}</span> символов
         header: PNG, GIF или JPG. Максимально 2MB. Будет уменьшено до 700x335px
-        locked: Потребует от Вас ручного подтверждения подписчиков, изменит приватность постов по умолчанию на "только для подписчиков"
+        locked: Потребует от Вас ручного подтверждения подписчиков, изменит приватность сообщений по умолчанию на "только для подписчиков"
         note:
           few: Осталось <span class="name-counter">%{count}</span> символа
           many: Осталось <span class="name-counter">%{count}</span> символов
@@ -41,7 +41,7 @@ ru:
         password: Пароль
         setting_auto_play_gif: Автоматически проигрывать анимированные GIF
         setting_boost_modal: Показывать диалог подтверждения перед продвижением
-        setting_default_privacy: Видимость постов
+        setting_default_privacy: Видимость сообщений
         setting_delete_modal: Показывать диалог подтверждения перед удалением
         severity: Строгость
         type: Тип импорта
